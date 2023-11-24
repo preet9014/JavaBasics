@@ -31,7 +31,7 @@ public class ExampleClassDeclaration {
     protected String message3;
 
      */
-    private String message="Hello";
+    private String message="Hello World";
     /*
     //Constructor of the class
     public ExampleClassDeclaration(String message){
